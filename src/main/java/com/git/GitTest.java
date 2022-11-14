@@ -8,6 +8,6 @@ public class GitTest {
         System.out.println("Hello World4");
         System.out.println("hot-mix commit");
         System.out.println("master commit1");
-        System.out.println("push commit1");
+        System.out.println("pull text")
     }
 }
